@@ -20,14 +20,11 @@
 
 - [✨ Features](#-features)
 - [🛠️ Technologies Used](#️-technologies-used)
-- [🎯 Projects Showcase](#-projects-showcase)
 - [📚 Skills & Expertise](#-skills--expertise)
-- [🏆 Certifications](#-certifications)
 - [🚀 Getting Started](#-getting-started)
 - [📱 Responsive Design](#-responsive-design)
 - [🎨 Design Features](#-design-features)
 - [📞 Contact](#-contact)
-- [📄 License](#-license)
 
 ---
 
